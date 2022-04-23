@@ -6,11 +6,11 @@ This repository contains the code for building movie recommendation engine.
 Explore Data Science Academy - Team 3
 
 ### Team Members
-Diana
-Colin
-Raphael
-Gabriel
-Edward
+* Diana
+* Colin
+* Raphael
+* Gabriel
+* Edward
 
 ## Details about Dataset
 
